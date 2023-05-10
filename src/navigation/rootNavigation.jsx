@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native'
 import { NavigationContainer } from '@react-navigation/native'
 import { SafeAreaProvider} from 'react-native-safe-area-context'
-import { HeaderScreen } from '../screens/Header'
+import { HeaderScreen } from '../screens/HeaderScreen'
 import { AppNavigation } from './AppNavigation'
 import React from 'react'
 

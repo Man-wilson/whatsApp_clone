@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import { HeaderScreen } from '../screens/Header'
+import { HeaderScreen } from '../screens/HeaderScreen'
 import { MainNavigation } from './MainNavigation'
 
 export const MainAppNavigation = () => {

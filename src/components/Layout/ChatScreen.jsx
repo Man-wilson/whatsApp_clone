@@ -94,11 +94,11 @@ export const ChatScreen = ({ route }) => {
           {name}
         </Text>
         <View>
-          <TouchableOpacity style={{flexDirection:'row', marginLeft: 100, width: 130, justifyContent:'space-between'}}>
+          <View style={{flexDirection:'row', marginLeft: 100, width: 130, justifyContent:'space-between'}}>
           <Ionicons name="videocam" size={24} color="white" />
         <Zocial name="call" size={24} color="white"/>
         <MaterialCommunityIcons name="dots-vertical" size={24} color="white"/>
-          </TouchableOpacity>
+          </View>
         </View>
       </View>
       <GiftedChat

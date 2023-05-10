@@ -4,7 +4,6 @@ import { createMaterialTopTabNavigator } from '@react-navigation/material-top-ta
 import { Calls } from '../screens/Calls';
 import { Chat } from '../screens/Chats';
 import { Status } from '../screens/Status';
-import { HeaderScreen } from '../screens/Header';
 
 
 const Tab = createMaterialTopTabNavigator();
